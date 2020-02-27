@@ -124,14 +124,14 @@ p {
 	font-family: Lato, Helvetica, Arial, sans-serif;
 	font-style: bold;
 	margin-bottom: -6px;
-	color: #47476b;
+	color: #29293d;
 }
 
 #name h2 {
 	font-size: 1.3em;
 	margin-left: 2px;
 	font-family: Akkurat-Mono, Helvetica, Arial, sans-serif;
-	color: #47476b;
+	color: #29293d;
 }
 
 #mainArea {
@@ -215,7 +215,7 @@ section:last-child {
 	font-family:  Lato, Helvetica, Arial, sans-serif;
 /*	font-weight: bold;
 */	font-size: 1.4em;
-	color: #47476b;
+	color: #29293d;
 }
 
 .noLink {
